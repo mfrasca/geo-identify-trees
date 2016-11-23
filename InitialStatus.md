@@ -14,3 +14,9 @@ Keep in mind that canopy will obstruct GPS signal, and that the resulting error 
 In this case start by collecting GPS traces along the border of your area, or follow the most relevant paths within the area. Put this information in OSM, print the map using FieldPapers, then work by triangulating. Measure distances from corners of crossings, as identified in the previous step, then expand the referenced area bit by bit.
 Or hire a professional.
 # Situation — botany
+## You are a botanist, expert in all fields
+Then there's nothing I should explain to you.
+## You are a botanist, specialised in a field
+You identify the plants of your speciality, then ask colleagues to identify plants outside of your specialization field.
+You start by associating an accession code to each plant. It does not matter if you are able to identify it completely, or not, just make sure every individual is identifiable.
+

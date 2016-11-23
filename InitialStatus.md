@@ -1,4 +1,4 @@
-# Situation
+# Situation — geo
 
 what information is available, and what knowledge.
 ## georeferenced map
@@ -12,3 +12,4 @@ in this case I suggest you produce some reference lines in the map, you might wa
 ## dense trees, no references
 keep in mind that canopy will obstruct GPS signal, and that the resulting error needs not be random, as the canopy will likely not be homogeneous. please DO NOT trust GPS data when collected close to asymmetrical obstacles, like standing next to a building, or in presence of thick tree canopy, in particular after rain or in presence of high humidity. start by referencing the border of your area, or bigger paths within the area, then work by triangulating, measuring distances and double checking at each step.
 or hire a professional.
+# Situation — botany

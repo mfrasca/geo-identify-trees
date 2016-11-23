@@ -18,5 +18,8 @@ Or hire a professional.
 Then there's nothing I should explain to you.
 ## You are a botanist, specialised in a field
 You identify the plants of your speciality, then ask colleagues to identify plants outside of your specialization field.
-You start by associating an accession code to each plant. It does not matter if you are able to identify it completely, or not, just make sure every individual is identifiable.
-
+## You are not a botanist
+You start by associating an accession code to each plant. It does not matter if you are able to identify it, or not, just make sure every individual is identifiable.
+You want to be sure that the accession code is physically attached to the plant. Print it on an aluminium plate, then tie the plate to the plant, make sure it will not fall off.
+You do not want to damage the individual, and you do not want that time, rain, or sun will damage the plate. This suggests aluminium as support material and striking rather than painting as printing method.
+Take pictures of every plant, make sure you include in every picture a copy of the accession code, store the pictures in your database.

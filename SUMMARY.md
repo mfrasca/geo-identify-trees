@@ -1,5 +1,5 @@
 # Summary
 
 * [Introducción](introduccion.md)
-* Situación
+* [Situación](InitialStatus.md)
 
